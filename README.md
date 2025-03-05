@@ -16,3 +16,15 @@
 
 **다운로드 링크**
 - [OneStore](https://m.onestore.co.kr/ko-kr/apps/appsDetail.omp?prodId=0000693074)
+
+
+
+빅데이터분석 과목 과제
+고속도로 통행량과 교통사고 발생률의 상관관계
+https://colab.research.google.com/drive/175o38EXi720vOF8ASWx7ik5TlopJG4ne?usp=sharing
+
+
+
+인공지능 과목 과제
+대한민국 지역별 인구 동향 예측
+https://colab.research.google.com/drive/1txh-RhhEMp-CRf9PRSxyQTUp314OPlPv#scrollTo=OG49m4epxOVq
