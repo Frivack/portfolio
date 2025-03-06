@@ -17,13 +17,30 @@
 **다운로드 링크**
 - [OneStore](https://m.onestore.co.kr/ko-kr/apps/appsDetail.omp?prodId=0000693074)
 
+프로그래밍의이해 과목 과제
+제목: 1988 길거리
+장르: 텍스트 격투게임
+https://drive.google.com/file/d/12iLu7vZ5DdlTR7ytHW3QzNoykMYfO7v9/view?usp=sharing
 
+멘토링 활동
+1. 가상쇼핑몰
+2. 스도쿠
+3. 바운스볼
+
+가상현실과멀티미디어 과목 과제
+Unity를 이용한 애니메이션 제작
+제목: 휴대폰의 위험성
+팀장
+https://drive.google.com/file/d/1xlVNa_zniDlkzROk0WO8Qf00nD1Zu7Zs/view?usp=sharing
+
+교내 활동
+엉뚱한연구활동
+드론을 이용한 수업중 딴 짓 탐지
+https://drive.google.com/file/d/12iLu7vZ5DdlTR7ytHW3QzNoykMYfO7v9/view?usp=sharing
 
 빅데이터분석 과목 과제
 고속도로 통행량과 교통사고 발생률의 상관관계
 https://colab.research.google.com/drive/175o38EXi720vOF8ASWx7ik5TlopJG4ne?usp=sharing
-
-
 
 인공지능 과목 과제
 대한민국 지역별 인구 동향 예측
