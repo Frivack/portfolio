@@ -46,12 +46,21 @@
 
 ## 멘토링 활동
 
-### 🛍️ [Virtual Shopping Mall (C++ 팀 프로젝트)](https://github.com/사용자명/virtual-shopping-mall)
+### 🛍️ [Virtual Shopping Mall (C++ 팀 프로젝트)](https://github.com/Frivack/VirtualShoppingMall)
 - Windows API 기반 GUI 쇼핑몰
 - 필터링 / 장바구니 / 카테고리 시스템 구현
-- 멘토-멘티 프로그램 내 팀 프로젝트, 기능 기획 및 구현 담당
+- 팀 프로젝트 (멘토-멘티), 기획, 통합 담당 및 멘토 역할 수행
 
-2. 스도쿠
+### 프로그램 실행 사진
+![메인 화면](https://github.com/Frivack/VirtualShoppingMall/raw/main/images/메인.png)
+
+### 🧩 [Sudoku (Python GUI)](https://github.com/Frivack/Sudoku)
+- Tkinter 기반 스도쿠 게임 (정답 생성, 힌트, 후보 입력, 타이머 포함)
+- 팀 프로젝트 (멘토-멘티), 설계, 통합 담당 및 멘토 역할 수행
+
+## 게임 실행 사진
+![image](https://github.com/user-attachments/assets/b9297a96-f0e0-4922-af19-230c1b1aa5ef)
+
 3. 바운스볼
 
 
