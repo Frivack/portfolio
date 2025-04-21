@@ -67,29 +67,27 @@
 ---
 
 
-가상현실과멀티미디어 과목 과제
-Unity를 이용한 애니메이션 제작
-제목: 휴대폰의 위험성
-팀장
-https://drive.google.com/file/d/1xlVNa_zniDlkzROk0WO8Qf00nD1Zu7Zs/view?usp=sharing
+### 🎬 [휴대폰의 위험성 (Unity 애니메이션 과제)](https://drive.google.com/file/d/1xlVNa_zniDlkzROk0WO8Qf00nD1Zu7Zs/view)
+- Unity 기반 짧은 애니메이션 제작
+- 주제: 스마트폰 과몰입의 위험성
+- 팀장
 
 
 ---
 
 
-교내 활동
-엉뚱한연구활동
-드론을 이용한 수업중 딴 짓 탐지
-https://drive.google.com/file/d/12iLu7vZ5DdlTR7ytHW3QzNoykMYfO7v9/view?usp=sharing
+### 🛸 [드론을 이용한 수업 중 딴짓 탐지 (엉뚱한 연구활동)](https://drive.google.com/file/d/12iLu7vZ5DdlTR7ytHW3QzNoykMYfO7Zs/view)
+- 교내 연구활동으로 진행한 프로젝트
+- 실내 드론을 활용해 학습 환경 내 행동 탐지
 
 
 ---
 
 
-빅데이터분석 과목 과제
-고속도로 통행량과 교통사고 발생률의 상관관계
-https://colab.research.google.com/drive/175o38EXi720vOF8ASWx7ik5TlopJG4ne?usp=sharing
+### 📊 [고속도로 통행량과 교통사고 발생률 분석 (빅데이터 분석 과제)](https://colab.research.google.com/drive/175o38EXi720vOF8ASWx7ik5TlopJG4ne)
+- 교통 통계 데이터를 활용해 상관관계 분석
+-
 
-인공지능 과목 과제
-대한민국 지역별 인구 동향 예측
-https://colab.research.google.com/drive/1txh-RhhEMp-CRf9PRSxyQTUp314OPlPv#scrollTo=OG49m4epxOVq
+### 🧠 [대한민국 지역별 인구 동향 예측 (인공지능 과목 과제)](https://colab.research.google.com/drive/1txh-RhhEMp-CRf9PRSxyQTUp314OPlPv)
+- 인공지능 수업 과제
+- 지역별 인구 데이터를 기반으로 미래 인구 예측 모델 개발
