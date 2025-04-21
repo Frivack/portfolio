@@ -13,7 +13,7 @@
 
 ![image](https://github.com/user-attachments/assets/ae39cc0f-189a-4622-8888-29069255e076)
 
->> 15년도에 개발된 앱으로 최신 안드로이드 기기에서는 작동이나 다운로드가 어려울 수도 있습니다!
+> 15년도에 개발된 앱으로 최신 안드로이드 기기에서는 작동이나 다운로드가 어렵습니다!
 
 **다운로드 링크**
 - [OneStore](https://m.onestore.co.kr/ko-kr/apps/appsDetail.omp?prodId=0000693074)
@@ -27,7 +27,7 @@
 - 클래스 구조 설계, 전투 및 저장 시스템 구현
 - 팀장으로 역할 분배, 지원 및 일부 기능 개발 담당
 
-## 게임 실행 사진
+### 게임 실행 사진
 ![텍스트RPG](https://github.com/user-attachments/assets/a0749459-3ca7-4b1c-a9d0-de7da18d34eb)
 
 
@@ -38,14 +38,19 @@
 - 적 AI 및 콘솔 그래픽 포함
 - 팀장으로서 기획/분배/지원 역할 수행
 
-## 게임 실행 사진
+### 게임 실행 사진
 ![1988길거리](https://github.com/user-attachments/assets/e3ba5b51-cb54-41ce-82be-7e4af71bd107)
 
 ---
 
 
-멘토링 활동
-1. 가상쇼핑몰
+## 멘토링 활동
+
+### 🛍️ [Virtual Shopping Mall (C++ 팀 프로젝트)](https://github.com/사용자명/virtual-shopping-mall)
+- Windows API 기반 GUI 쇼핑몰
+- 필터링 / 장바구니 / 카테고리 시스템 구현
+- 멘토-멘티 프로그램 내 팀 프로젝트, 기능 기획 및 구현 담당
+
 2. 스도쿠
 3. 바운스볼
 
