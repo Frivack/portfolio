@@ -35,6 +35,7 @@
 
 ### 🥊 [1988 길거리 (대학교 팀 프로젝트)](https://github.com/Frivack/1988-Street)
 - 콘솔 기반 복싱 게임 (캐릭터/스텝/전투)
+- C언어 사용
 - 적 AI 및 콘솔 그래픽 포함
 - 팀장으로서 기획/분배/지원 역할 수행
 
@@ -46,23 +47,29 @@
 
 ## 멘토링 활동
 
-### 🛍️ [Virtual Shopping Mall (C++ 팀 프로젝트)](https://github.com/Frivack/VirtualShoppingMall)
+### 🛍️ [Virtual Shopping Mall](https://github.com/Frivack/VirtualShoppingMall)
 - Windows API 기반 GUI 쇼핑몰
+- C++ 사용
 - 필터링 / 장바구니 / 카테고리 시스템 구현
 - 팀 프로젝트 (멘토-멘티), 기획, 통합 담당 및 멘토 역할 수행
 
 ### 프로그램 실행 사진
 ![메인 화면](https://github.com/Frivack/VirtualShoppingMall/raw/main/images/메인.png)
 
-### 🧩 [Sudoku (Python GUI)](https://github.com/Frivack/Sudoku)
+### 🧩 [Sudoku](https://github.com/Frivack/Sudoku)
 - Tkinter 기반 스도쿠 게임 (정답 생성, 힌트, 후보 입력, 타이머 포함)
 - 팀 프로젝트 (멘토-멘티), 설계, 통합 담당 및 멘토 역할 수행
 
 ## 게임 실행 사진
 ![image](https://github.com/user-attachments/assets/b9297a96-f0e0-4922-af19-230c1b1aa5ef)
 
-3. 바운스볼
+### 🟠 [Bounce Ball](https://github.com/Frivack/bounce-ball)
+- Pygame 기반 2D 점프 액션 게임
+- 팀장으로 기획, 구조 설계, 통합 개발 수행
+- 물리 이동 / 장애물 / 타이머 / 점수 시스템 포함
 
+## 게임 실행 사진
+  ![image](https://github.com/user-attachments/assets/869bb12a-e906-4aca-889b-3ed23d8db136)
 
 ---
 
