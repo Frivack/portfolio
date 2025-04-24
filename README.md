@@ -5,13 +5,13 @@
 # Flicker
 ### 고등학교 졸업과제
 
-고등학교 졸업과제로 개발한 **횡스크롤 러닝게임**, **Flicker**입니다.
+- 고등학교 졸업과제로 개발한 **횡스크롤 러닝게임**, **Flicker**입니다.
 
-**플레이어 이동**, **스테이지 장애물 배치** 등
-게임의 **전반적인 프로그래밍**을 담당하였습니다..
+- **플레이어 이동**, **스테이지 장애물 배치** 등
+게임의 **전반적인 프로그래밍**을 담당하였습니다.
 
-- 🛠️ 개발 환경: **C++**, **Cocos2d**
-- 📱 플랫폼: Android
+- **C++**과 **Cocos2d**로 개발
+- Android 플랫폼에 출시
 
 
 ![image](https://github.com/user-attachments/assets/ae39cc0f-189a-4622-8888-29069255e076)
@@ -56,22 +56,26 @@
 - 필터링 / 장바구니 / 카테고리 시스템 구현
 - 팀 프로젝트 (멘토-멘티), 기획, 통합 담당 및 멘토 역할 수행
 
-### 프로그램 실행 사진
+### 실행 화면
 ![메인 화면](https://github.com/Frivack/VirtualShoppingMall/raw/main/images/메인.png)
+
+**—**
 
 ### 🧩 [Sudoku](https://github.com/Frivack/Sudoku)
 - Python Tkinter 기반 스도쿠 게임 (정답 생성, 힌트, 후보 입력, 타이머 포함)
 - 팀 프로젝트 (멘토-멘티) 멘토로써 설계, 통합 담당 및 멘토 역할 수행
 
-## 실행 화면
+### 실행 화면
 ![image](https://github.com/user-attachments/assets/b9297a96-f0e0-4922-af19-230c1b1aa5ef)
+
+**—**
 
 ### 🟠 [Bounce Ball](https://github.com/Frivack/bounce-ball)
 - Python Pygame 기반 2D 점프 액션 게임
 - 팀 프로젝트 (멘토-멘티) 멘토로써 기획, 구조 설계, 통합 및 멘토 역할 수행
 - 물리 이동 / 장애물 / 타이머 / 점수 시스템 포함
 
-## 실행 화면
+### 실행 화면
   ![image](https://github.com/user-attachments/assets/869bb12a-e906-4aca-889b-3ed23d8db136)
 
 ---
@@ -115,10 +119,14 @@
 - **2024 대한전자공학회 하계학술대회 포스터 발표**
 - YOLOv7 탐지 결과를 기반으로 이미지 내 가시거리, 소광계수 계산을 통한 미세먼지 농도 측정 방식 제안
 
+**—**
+
 ### 📄 [YOLO v7과 Canny Edge Detection을 이용한 객체 이미지 추출 알고리즘](https://drive.google.com/file/d/1HYq2wo1oWkcOSNFIj6OtbjR-z1bNqTRr/view?usp=sharing)
 - **2024 반도체공학회 하계학술대회 포스터 발표**
 - YOLOv7으로 탐지한 객체의 외곽선에 Canny Edge Detection을 적용하여 더 정밀한 이미지 추출 알고리즘 구성
 - 기존 객체 탐지 모델의 출력 결과에 후처리를 추가함으로써 실질적인 분리 성능을 향상시키는 방향을 모색
+
+**—**
 
 ###  📄 [새로운 역전파 친화적 고윳값 분해법을 이용한 미세먼지 측정 방법](https://drive.google.com/file/d/1uNhDACP6Myhlxx9rBtlY6ijbOMjPRQjO/view?usp=sharing)
 - **2024 대한전자공학회 추계학술대회 포스터 발표**
