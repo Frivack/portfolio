@@ -115,20 +115,29 @@
 
 ## 🧪 연구 및 논문 활동
 
-### 📄 [YOLO v7 깊이 측정 알고리즘을 이용한 실시간 미세먼지 관제 시스템](https://drive.google.com/file/d/1HYq2wo1oWkcOSNFIj6OtbjR-z1bNqTRr/view?usp=sharing)
+### 📄 [YOLO v7 깊이 측정 알고리즘을 이용한 실시간 미세먼지 관제 시스템](https://drive.google.com/file/d/1bYghNYkg1cmqz3h_gyWXrSW3vIm6N9MI/view?usp=sharing)
 - **2024 대한전자공학회 하계학술대회 포스터 발표**
 - YOLOv7 탐지 결과를 기반으로 이미지 내 가시거리, 소광계수 계산을 통한 미세먼지 농도 측정 방식 제안
 
 **—**
 
-### 📄 [YOLO v7과 Canny Edge Detection을 이용한 객체 이미지 추출 알고리즘](https://drive.google.com/file/d/1HYq2wo1oWkcOSNFIj6OtbjR-z1bNqTRr/view?usp=sharing)
+### 📄 [Roberts 윤곽선 검출 알고리즘을 이용한 미세먼지 측정](https://drive.google.com/file/d/1ehjuibSD1VNXzk2v7385pNnSO_qEuzi4/view)
+- **2024 대한전자공학회 하계학술대회 포스터 발표**
+- *공동 저자 참여*
+- Roberts Edge 검출 알고리즘을 적용해 이미지 내 윤곽선 강도를 계산하고, 이를 통해 미세먼지 농도를 간접적으로 측정하는 방식 제안
+- 윤각선 강도와 실제 PM10 농도(기상청 데이터)의 상관관계를 실험적으로 검증
+
+**—**
+
+### 📄 [YOLO v7과 Canny Edge Detection을 이용한 객체 이미지 추출 알고리즘](https://drive.google.com/file/d/1E6M3ftwm0DbsIU0SidxRrlWg3kvVp0t2/view?usp=sharing)
 - **2024 반도체공학회 하계학술대회 포스터 발표**
 - YOLOv7으로 탐지한 객체의 외곽선에 Canny Edge Detection을 적용하여 더 정밀한 이미지 추출 알고리즘 구성
 - 기존 객체 탐지 모델의 출력 결과에 후처리를 추가함으로써 실질적인 분리 성능을 향상시키는 방향을 모색
 
 **—**
 
-###  📄 [새로운 역전파 친화적 고윳값 분해법을 이용한 미세먼지 측정 방법](https://drive.google.com/file/d/1uNhDACP6Myhlxx9rBtlY6ijbOMjPRQjO/view?usp=sharing)
+###  📄 [새로운 역전파 친화적 고윳값 분해법을 이용한 미세먼지 측정 방법](https://drive.google.com/file/d/1cpPpEU_eLstyx2xIGJgg3L3u7XCVUMWi/view?usp=sharing)
 - **2024 대한전자공학회 추계학술대회 포스터 발표**
 - YOLO 기반 이미지 데이터에서 미세먼지 농도를 예측하기 위해 SVD와 파워 반복법을 결합한 하이브리드 고윳값 분해 알고리즘을 제안
 - 경찰청 CCTV 및 기상 데이터를 활용해 실제 환경 기반 실험 수행
+
