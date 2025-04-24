@@ -117,7 +117,7 @@
 
 ### 📄 [YOLO v7과 Canny Edge Detection을 이용한 객체 이미지 추출 알고리즘](https://drive.google.com/file/d/1HYq2wo1oWkcOSNFIj6OtbjR-z1bNqTRr/view?usp=sharing)
 - **2024 반도체공학회 하계학술대회 포스터 발표**
-- YOLOv7으로 탐지지한 객체의 외곽선에 Canny Edge Detection을 적용하여 더 정밀한 이미지 추출 알고리즘 구성
+- YOLOv7으로 탐지한 객체의 외곽선에 Canny Edge Detection을 적용하여 더 정밀한 이미지 추출 알고리즘 구성
 - 기존 객체 탐지 모델의 출력 결과에 후처리를 추가함으로써 실질적인 분리 성능을 향상시키는 방향을 모색
 
 ###  📄 [새로운 역전파 친화적 고윳값 분해법을 이용한 미세먼지 측정 방법](https://drive.google.com/file/d/1uNhDACP6Myhlxx9rBtlY6ijbOMjPRQjO/view?usp=sharing)
