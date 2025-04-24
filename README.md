@@ -113,7 +113,7 @@
 
 ### 📄 [YOLO v7 깊이 측정 알고리즘을 이용한 실시간 미세먼지 관제 시스템](https://drive.google.com/file/d/1HYq2wo1oWkcOSNFIj6OtbjR-z1bNqTRr/view?usp=sharing)
 - **2024 대한전자공학회 하계학술대회 포스터 발표**
-- YOLOv7 탑지 결과를 기반으로 이미지 내 가시거리, 소광계수 계산을 통한 미세먼지 농도 측정 방식 제안
+- YOLOv7 탐지 결과를 기반으로 이미지 내 가시거리, 소광계수 계산을 통한 미세먼지 농도 측정 방식 제안
 
 ### 📄 [YOLO v7과 Canny Edge Detection을 이용한 객체 이미지 추출 알고리즘](https://drive.google.com/file/d/1HYq2wo1oWkcOSNFIj6OtbjR-z1bNqTRr/view?usp=sharing)
 - **2024 반도체공학회 하계학술대회 포스터 발표**
