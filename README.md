@@ -103,3 +103,21 @@
 - 지역별 인구 데이터를 기반으로 미래 인구 변화 추세 예측
 - **VAR, VARMA, VARMAX** 모델을 적용하여 지역 간 상관관계 및 예측 정확도 분석
 - Google Colab을 활용한 인공지능 기반 시계열 분석
+
+---
+
+## 🧪 연구 및 논문 활동
+
+### 📄 [YOLO v7 깊이 측정 알고리즘을 이용한 실시간 미세먼지 관제 시스템](https://drive.google.com/file/d/1HYq2wo1oWkcOSNFIj6OtbjR-z1bNqTRr/view?usp=sharing)
+- **2024 대한전자공학회 하계학술대회 포스터 발표**
+- YOLOv7 탑지 결과를 기반으로 이미지 내 가시거리, 소광계수 계산을 통한 미세먼지 농도 측정 방식 제안
+
+### 📄 [YOLO v7과 Canny Edge Detection을 이용한 객체 이미지 추출 알고리즘](https://drive.google.com/file/d/1HYq2wo1oWkcOSNFIj6OtbjR-z1bNqTRr/view?usp=sharing)
+- **2024 반도체공학회 하계학술대회 포스터 발표**
+- YOLOv7으로 탐지지한 객체의 외곽선에 Canny Edge Detection을 적용하여 더 정밀한 이미지 추출 알고리즘 구성
+- 기존 객체 탐지 모델의 출력 결과에 후처리를 추가함으로써 실질적인 분리 성능을 향상시키는 방향을 모색
+
+###  📄 [새로운 역전파 친화적 고윳값 분해법을 이용한 미세먼지 측정 방법](https://drive.google.com/file/d/1uNhDACP6Myhlxx9rBtlY6ijbOMjPRQjO/view?usp=sharing)
+- **2024 대한전자공학회 추계학술대회 포스터 발표**
+- YOLO 기반 이미지 데이터에서 미세먼지 농도를 예측하기 위해 SVD와 파워 반복법을 결합한 하이브리드 고윳값 분해 알고리즘을 제안
+- 경찰청 CCTV 및 기상 데이터를 활용해 실제 환경 기반 실험 수행
