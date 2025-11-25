@@ -141,3 +141,10 @@
 - YOLO 기반 이미지 데이터에서 미세먼지 농도를 예측하기 위해 SVD와 파워 반복법을 결합한 하이브리드 고윳값 분해 알고리즘을 제안
 - 경찰청 CCTV 및 기상 데이터를 활용해 실제 환경 기반 실험 수행
 
+**—**
+
+### 📄 [[KPCA 기반 ViT의 이미지 인식 성능 개선 방안](https://drive.google.com/file/d/1bIbN7Ez_cMYsPIby-1sfHKjTQfVa6GyF/view?usp=sharing)
+- **2025 대한전자공학회 SoC 학술대회 포스터 발표**
+- Vision Transformer(ViT)의 비선형 표현 한계를 보완하기 위해 KPCA로 패치를 고차원 공간에 매핑하는 KPCA
+- 기반 ViT 구조를 제안기존 대비 성능은 향상되었으나, 연산 증가로 인해 추론 속도가 소폭 감소함
+
